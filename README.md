@@ -1,3 +1,5 @@
+I've build a movie app from scratch, getting data from a real API and saving to local storage.
+
 APIs Used
 The Open Movie Database APIs
 
